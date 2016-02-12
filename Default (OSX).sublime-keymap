@@ -1,6 +1,10 @@
 [
     {
-        "keys": ["ctrl+super+o"],
+        "keys": ["ctrl+super+j"],
         "command": "jump_to_class"
+    },
+    {
+        "keys": ["ctrl+shift+j"],
+        "command": "search_for_word"
     }
 ]
