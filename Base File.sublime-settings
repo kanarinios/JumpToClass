@@ -1,0 +1,4 @@
+{
+    "jump_to_class_separator": "::",
+    "jump_to_class_word_separators": "./\\()\"'-,.;<>~!@#$%^&*|+=[]{}`~?"
+}
